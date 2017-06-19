@@ -30,7 +30,6 @@ import com.google.android.gms.ads.AdView;
 
 public class Framento_usuarios extends AppCompatActivity {
     private CallbackManager callbackManager;
-    private String username="";
 
     private static String loginFace;
     Profile profile;
